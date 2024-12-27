@@ -9,20 +9,30 @@
 
 - 🌱 I’m currently learning **The latest in **Deep Learning** and **Data Science**, sharpening my skills in **Time-Series Forecasting** and **AI deployment**. 🌟**
 
-- 👯 **Currently collaborating on ****: - **Hurudza**: An agriculture system based on **IoT**, **AI**, **machine learning**, **automation**, **cloud**, and **mobile development**. 🌾 - **Hakeem**: A healthcare platform that enhances the experience for **patients** and **doctors**. 🏥**
+- 👯 **Currently collaborating on
+- **Hurudza**: An agriculture system based on **IoT**, **AI**, **machine learning**, **automation**, **cloud**, and **mobile development**. 🌾
+- **Hakeem**: A healthcare platform that enhances the experience for **patients** and **doctors**. 🏥
 
-- 🤝 I’m looking for help with Anything related to ****advanced data analysis**, **deploying AI models**, or **optimizing code for scalability**. I love collaborating with others to solve complex problems. 🚀**
+- 🤝 I’m looking for help with Anything related to
+-  ****advanced data analysis**
+-  **deploying AI models**
+-  **optimizing code for scalability**.
+-   I love collaborating with others to solve complex problems. 🚀**
 
-- 💬 Ask me about **- **AI and Deep Learning** 🧠 - **Data Science workflows** 📊 - **Machine Learning model deployment** 🚀 - **Tech career advice** 🧑‍💻 I’m passionate about learning and sharing knowledge! 💡**
+- 💬 Ask me about
+- **AI and Deep Learning** 🧠
+- **Data Science workflows** 📊
+- **Machine Learning model deployment** 🚀
+- **Tech career advice** 🧑‍💻 I’m passionate about learning and sharing knowledge! 💡
 
-- 📫 How to reach me **Feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/tlemcani-halima-farah/) or shoot me an email at **halima@wejha.dz**! 💌**
+- 📫 How to reach me **Feel free to reach out via my [LinkedIn](nkedin.com/in/farah-tlemcani-6632321a3/) or shoot me an email at **farah.tlemcani00@gmail.com**! 💌**
 
-- ⚡ Fun fact **I once won 1st prize at **Techstars Startup Weekend** for an AI-driven project and **won the Huawei Developer Competition**! 🎉 I also have a soft spot for **cat memes** and sharing them with my loved ones. 🐱**
+- ⚡ Fun fact **I once won 1st prize at **the Huawei Developer Competition** for an AI-driven project and **won Techstars Startup Weekend **! 🎉 I also have a soft spot for **cat memes** and sharing them with my loved ones. 🐱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/farah tlemcani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farah tlemcani" height="30" width="40" /></a>
-<a href="https://kaggle.com/farahtlemcani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="farahtlemcani" height="30" width="40" /></a>
+<a href="nkedin.com/in/farah-tlemcani-6632321a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farah tlemcani" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/farahhalimatlemcani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="farahtlemcani" height="30" width="40" /></a>
 <a href="https://www.behance.net/farahtlemcani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="farahtlemcani" height="30" width="40" /></a>
 </p>
 
