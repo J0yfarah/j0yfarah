@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Farah 👋✨</h1>
 <h3 align="center">Welcome to my GitHub! 💻 Here’s a little about me:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j0yfarah&label=Profile%20views&color=0e75b6&style=flat" alt="j0yfarah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j0yfarah" alt="j0yfarah" /></a> </p>
 
 🔭 I’m currently working on **Building innovative AI solutions and exploring exciting data science projects! You’ll find repositories for my machine learning models, data analysis work, and more.**
 
