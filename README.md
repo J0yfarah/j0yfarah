@@ -6,12 +6,12 @@
 
  🌱 I’m currently learning **The latest in **Deep Learning** and **Data Science**, sharpening my skills in **Time-Series Forecasting** and **AI deployment**. 🌟**
 
-👯 **Currently collaborating on
+👯 **Currently collaborating on**
 - **Hurudza**: An agriculture system based on **IoT**, **AI**, **machine learning**, **automation**, **cloud**, and **mobile development**. 🌾
 - **Hakeem**: A healthcare platform that enhances the experience for **patients** and **doctors**. 🏥
 
  🤝 I’m looking for help with Anything related to
--  ****advanced data analysis**
+-  **advanced data analysis**
 -  **deploying AI models**
 -  **optimizing code for scalability**.
 -   I love collaborating with others to solve complex problems. 🚀**
