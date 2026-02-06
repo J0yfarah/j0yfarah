@@ -21,9 +21,9 @@
 | **Design/BI** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 
 ### 📈 Current Growth Path
- 🧬 **Statistical Modeling:** Mastering R and advanced Python paradigms.
- 🏗️ **Architecture:** Deepening SQL expertise for complex database design.
- 🔄 **MLOps:** Implementing CI/CD pipelines for production-ready models.
+  - 🧬 **Statistical Modeling:** Mastering R and advanced Python paradigms.
+  - 🏗️ **Architecture:** Deepening SQL expertise for complex database design.
+  - 🔄 **MLOps:** Implementing CI/CD pipelines for production-ready models.
 ### 📊 GitHub Stats
 </div>
 
