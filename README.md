@@ -27,10 +27,14 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=j0yfarah&show_icons=true&theme=tokyonight" alt="Farah's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=J0yfarah&show_icons=true&theme=tokyonight" alt="Farah's Stats" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0yfarah&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
-
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=J0yfarah&show_icons=true&theme=tokyonight" alt="Farah's Stats" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=J0yfarah&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+</p>
 ---
 <div align="center">
   <sub>Built with Python, Data, and Design.</sub>
