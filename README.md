@@ -33,5 +33,5 @@
 </p>
 ---
 <div align="center">
-  <sub>Built with Python, Data, and Design.</sub>
+  <sub>Built by farah.</sub>
 </div>
