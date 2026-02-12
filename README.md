@@ -28,6 +28,7 @@
 </div>
 
 <p align="center">
+<img src="https://leetcard.jacoblin.cool/ZYzy3H9ixA?theme=dark" alt="LeetCode Stats" height="150" />
 <img src="https://github-readme-stats-fast.vercel.app/api?username=J0yfarah&show_icons=true&theme=tokyonight" alt="Farah's Stats" height="150" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=J0yfarah&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
